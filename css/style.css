@@ -1290,4 +1290,26 @@ input[type="text"] {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+.banner {
+  border: 1px outset rgb(0, 0, 0);
+  background-color: rgb(175, 212, 224);    
+  text-align: center;
+}
+
+.bannerimg{
+  max-width: 100%;
+}
+.rg_logo {
+  float: left;
+  margin-top: 5px;
+  z-index: 3;
+  padding-left: 12px;
+  box-sizing: border-box;
+
+}
+.uni_logo{
+  float: right;
+  margin-top: 5px;
+  z-index: 3;
+  box-sizing: border-box;
+}
